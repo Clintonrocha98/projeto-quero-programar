@@ -112,6 +112,15 @@ function App() {
           </li>
         </ul>
 
+        <h2>Conteudo auxiliar</h2>
+        <ul>
+          <li>
+            <a href="https://github.com/he4rt/4noobs" target="_blank">
+              4noobs
+            </a>
+          </li>
+        </ul>
+
         <h2>LEIA ISSO AQUI</h2>
         <ul>
           <li>
