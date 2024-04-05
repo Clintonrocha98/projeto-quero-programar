@@ -112,15 +112,6 @@ function App() {
           </li>
         </ul>
 
-        <h2>Conteudo auxiliar</h2>
-        <ul>
-          <li>
-            <a href="https://github.com/he4rt/4noobs" target="_blank">
-              4noobs
-            </a>
-          </li>
-        </ul>
-
         <h2>LEIA ISSO AQUI</h2>
         <ul>
           <li>
@@ -147,6 +138,90 @@ function App() {
               target="_blank"
             >
               Quero ser dev
+            </a>
+          </li>
+        </ul>
+
+        <h2>Outros links</h2>
+        <ul>
+          <li>
+            O basico de varias tecnologias:
+            <a
+              href="https://github.com/he4rt/4noobs"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              4noobs
+            </a>
+          </li>
+          <li>
+            Aprenda a sintax de qualquer linguagem rapidamente:
+            <a
+              href="https://learnxinyminutes.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              lear X in Y minutes
+            </a>
+          </li>
+          <li>
+            Modelo de curriculo dev:
+            <a
+              href="https://github.com/sspacecoding/curriculodasguria/tree/main"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              modelo de currículo
+            </a>
+          </li>
+          <li>
+            Modelo de README para documentar algum projeto:
+            <a
+              href="https://github.com/Fernanda-Kipper/Readme-Templates"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Readme-Templates
+            </a>
+          </li>
+          <li>
+            Desafios e testes tecnicos para praticar:
+            <a
+              href="https://github.com/CollabCodeTech/backend-challenges"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              backend-challenges
+            </a>
+          </li>
+          <li>
+            Aprenda padrões de projeto:
+            <a
+              href="https://refactoring.guru/pt-br/design-patterns"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              design-patterns
+            </a>
+          </li>
+          <li>
+            Aprenda padrões de projeto voltado para o front-end:
+            <a
+              href="https://www.patterns.dev"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              design-patterns no front
+            </a>
+          </li>
+          <li>
+            varios figmas para você praticar seu front-end:
+            <a
+              href="https://leovargas.notion.site/ae7f8ce3605c486ab9437216e8b41ff6?v=307eebb71b34464389b93702da9bec72"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              acervo de figmas
             </a>
           </li>
         </ul>
