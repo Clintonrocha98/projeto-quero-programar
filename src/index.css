@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h2 {
+  @apply text-3xl mb-4;
+}
+a {
+  @apply font-bold hover:text-blue-500 hover:underline;
+}
+li{
+  @apply mb-2
+}
