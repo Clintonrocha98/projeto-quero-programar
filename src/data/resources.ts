@@ -1,0 +1,80 @@
+export const resources = [
+  {
+    title: "Roadmap.sh",
+    url: "https://roadmap.sh",
+    description: "Mapas de aprendizado para diversas áreas da tecnologia, como front-end, back-end, DevOps, entre outras.",
+    type: "ferramenta",
+  },
+  {
+    title: "Trilha.info",
+    url: "https://www.trilha.info",
+    description: "Trilhas de estudos organizadas para quem quer começar na área de tecnologia e programação.",
+    type: "ferramenta",
+  },
+  {
+    title: "Techguide.sh",
+    url: "https://techguide.sh",
+    description: "Guia interativo de carreira com caminhos sugeridos, tecnologias e habilidades por área da programação.",
+    type: "ferramenta",
+  },
+  {
+    title: "4noobs - O básico de várias tecnologias",
+    url: "https://github.com/he4rt/4noobs",
+    description: "Repositório colaborativo com introduções e conteúdos básicos sobre diversas linguagens e ferramentas.",
+    type: "repositório",
+  },
+  {
+    title: "Learn X in Y minutes - Aprenda qualquer linguagem rapidamente",
+    url: "https://learnxinyminutes.com",
+    description: "Tutoriais rápidos e práticos para aprender uma linguagem de programação em poucos minutos.",
+    type: "ferramenta",
+  },
+  {
+    title: "Modelo de currículo para devs",
+    url: "https://github.com/sspacecoding/curriculodasguria/tree/main",
+    description: "Exemplos e modelos de currículos voltados para quem está buscando vaga na área de desenvolvimento.",
+    type: "modelo",
+  },
+  {
+    title: "Templates de README para projetos",
+    url: "https://github.com/Fernanda-Kipper/Readme-Templates",
+    description: "Modelos prontos de arquivos README para documentar seus projetos de forma clara e atrativa.",
+    type: "modelo",
+  },
+  {
+    title: "Desafios e testes técnicos para praticar",
+    url: "https://github.com/CollabCodeTech/backend-challenges",
+    description: "Lista de desafios práticos utilizados por empresas em processos seletivos para back-end.",
+    type: "desafios",
+  },
+  {
+    title: "Padrões de projeto",
+    url: "https://refactoring.guru/pt-br/design-patterns",
+    description: "Explicações visuais e acessíveis sobre padrões de projeto usados no desenvolvimento de software.",
+    type: "documentação",
+  },
+  {
+    title: "Padrões de projeto para front-end",
+    url: "https://www.patterns.dev",
+    description: "Guia moderno com padrões e boas práticas voltados especialmente para projetos front-end.",
+    type: "documentação",
+  },
+  {
+    title: "Acervo de Figmas para praticar front-end",
+    url: "https://leovargas.notion.site/ae7f8ce3605c486ab9437216e8b41ff6?v=307eebb71b34464389b93702da9bec72",
+    description: "Coleção de arquivos Figma gratuitos para praticar a conversão de layouts em código.",
+    type: "recursos",
+  },
+  {
+    title: "O mínimo que você precisa saber de JavaScript para frameworks",
+    url: "https://felipperegazio.com/posts/o-minimo-necessario-js-para-frameworks/",
+    description: "Artigo que resume os principais conceitos de JavaScript que você deve dominar antes de aprender frameworks.",
+    type: "artigo",
+  },
+  {
+    title: "12 Dicas NÃO TÉCNICAS para o primeiro emprego",
+    url: "https://felipperegazio.com/posts/12-dicas-nao-tecnicas-primeiro-emprego/",
+    description: "Dicas comportamentais e de postura profissional para quem está em busca do primeiro emprego como dev.",
+    type: "artigo",
+  },
+];
