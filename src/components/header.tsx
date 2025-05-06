@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { Menu, X, Code, BookOpen, Users, Lightbulb, Home } from "lucide-react"
+import { Menu, X, Code, BookOpen, Home } from "lucide-react"
 import { MobileNavLink } from "./mobile-nav-link"
 import { NavLink } from "./nav-link"
 
@@ -23,7 +23,7 @@ export default function Header() {
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-6">
-            <NavLink href="/" icon={<Home className="h-4 w-4 mr-1" />} label="Início" />
+            <NavLink href="/" icon={<Home className="h-4 w-4 mr-1" />} label="O começo" />
             <NavLink href="/tecnologias" icon={<Code className="h-4 w-4 mr-1" />} label="Tecnologias" />
             <NavLink href="/recursos" icon={<BookOpen className="h-4 w-4 mr-1" />} label="Recursos" />
             {/* <NavLink href="/comunidade" icon={<Users className="h-4 w-4 mr-1" />} label="Comunidade" />
@@ -51,8 +51,8 @@ export default function Header() {
             <MobileNavLink href="/" icon={<Home className="h-5 w-5 mr-2" />} label="Início" />
             <MobileNavLink href="/tecnologias" icon={<Code className="h-5 w-5 mr-2" />} label="Tecnologias" />
             <MobileNavLink href="/recursos" icon={<BookOpen className="h-5 w-5 mr-2" />} label="Recursos" />
-            <MobileNavLink href="/comunidade" icon={<Users className="h-5 w-5 mr-2" />} label="Comunidade" />
-            <MobileNavLink href="/blog" icon={<Lightbulb className="h-5 w-5 mr-2" />} label="Blog" />
+            {/* <MobileNavLink href="/comunidade" icon={<Users className="h-5 w-5 mr-2" />} label="Comunidade" />
+            <MobileNavLink href="/blog" icon={<Lightbulb className="h-5 w-5 mr-2" />} label="Blog" /> */}
           </div>
         </div>
       )}
